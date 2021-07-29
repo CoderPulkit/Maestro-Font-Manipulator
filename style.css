@@ -1,0 +1,44 @@
+body{
+   
+    background-color: cyan;
+}
+h2{
+    font-weight:bolder;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    letter-spacing: 1px;
+}
+
+.note1{
+    font-size: 22px;
+    height: 68px;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    background-color: navy;
+    
+ }
+ .note1:hover{
+ color:black  !important;
+ }
+
+.copyright_footer{
+     position: fixed;
+     bottom: 0;
+     float: none;
+     width: 100%;
+     line-height: 3;
+    
+     background-color:black;
+     color: white;
+     height: 37px;
+     font-weight: bold;
+     padding-bottom: 10px;
+ }
+
+ canvas{
+   border:5px solid white;
+   margin-left: 300px;
+ 
+ }
+ video{
+     margin-left: 100px;
+ }
